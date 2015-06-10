@@ -1,0 +1,2 @@
+cat pass
+ssh -l level2 logic.smashthestack.org -p2227
